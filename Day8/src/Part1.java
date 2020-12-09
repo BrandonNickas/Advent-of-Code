@@ -50,6 +50,5 @@ public class Part1 {
                 index++;
             }
         }
-
     }
 }

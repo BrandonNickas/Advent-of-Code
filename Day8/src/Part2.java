@@ -28,9 +28,6 @@ public class Part2 {
         int attempt = 0;
         String[] attempString = new String[2];
         int flex = 0;
-        int currentAcc = 0;
-        
-
 
         while (attempt < lines.length) {
             boolean wasJmp = false, wasNop = false;
