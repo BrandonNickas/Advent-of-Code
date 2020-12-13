@@ -71,7 +71,6 @@ public class Part2 {
                 min = lines[i];
             }
         }
-
         System.out.print(min + max);
     }
 }
